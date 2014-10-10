@@ -1,5 +1,7 @@
 # Promise wrapper for redis
 
+Note: This project is not published to npmjs yet, just fetch the source code if you want to use.
+
 ## How to use:
 
 	rp = require('./redis_promise');
